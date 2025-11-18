@@ -59,6 +59,7 @@ dependencies {
     kapt "androidx.room:room-compiler:2.5.0" // Кодогенератор
     implementation 'androidx.room:room-ktx:2.5.0'
     */
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
