@@ -87,7 +87,7 @@ dependencies {
 //    def nav_version = "2.5.3"
  //   implementation ("android.arch.navigation:navigation-fragment-ktx:$nav_version")
   //  implementation ("android.arch.navigation:navigation-ui-ktx:$nav_version")
-*/
+//*/
     implementation(libs.androidx.room.ktx)
 
 
